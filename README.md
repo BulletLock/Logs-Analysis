@@ -16,9 +16,7 @@ _PostgreSQL_ along with _Psycopg 2_ most popular PostgreSQL database adapter for
 ## Requirements for the program to run
 - PostgreSQL - [Download Here](https://www.postgresql.org/download/)
 - Python 3 - [Download Here](https://www.python.org/downloads/)
-- Psycopg 2 - install it using ```shell
-			  pip install psycopg2 
-			  ```
+- Psycopg 2 - install it using ``` pip install psycopg2 ```
 
 
 ## How to run the program?
